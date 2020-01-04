@@ -54,7 +54,7 @@ public class TestListener implements ITestListener {
 
 		String testClassName = result.getTestClass().getName();
 		Date d = new Date();
-		SimpleDateFormat sd = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss a");
+		SimpleDateFormat sd = new SimpleDateFormat("dd_MM_yyyy_HH_mm_ss_a");
 		String timeStamp = sd.format(d);
 		String testMethodName = result.getName().toString().trim();
 		String screenShotName = testMethodName + timeStamp + ".png";
