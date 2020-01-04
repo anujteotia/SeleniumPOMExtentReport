@@ -1,5 +1,5 @@
 # Selenium - Page Object model Test Automation Framework
-Selenium tests using Page-Object-Model running on TestNG framework. It shows how it can be used in selenium to automate any application. testNG is used as test Framework.
+Selenium tests using Page-Object-Model running on TestNG framework. It shows how it can be used in selenium to automate any application.
 
 ### Dependencies
 	Java and Maven
