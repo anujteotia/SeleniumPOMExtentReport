@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Test Suite]">
+  <parameter name="appURL" value="https://www.hema.com/en-gb"/>
+  <parameter name="browserType" value="firefox"/>
+  <listeners>
+    <listener class-name="com.tomtom.base.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Functional Tests(failed)">
+    <classes>
+      <class name="com.tomtom.tests.SignInPageTest">
+        <methods>
+          <include name="initializeTestBaseSetup"/>
+          <include name="signInFailure"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.tomtom.tests.SignInPageTest -->
+    </classes>
+  </test> <!-- Functional Tests(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[Sign In failure test case...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on sign in button]]>
+    </line>
+    <line>
+      <![CDATA[Performing click on signing button...]]>
+    </line>
+    <line>
+      <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_username]]]>
+    </line>
+    <line>
+      <![CDATA[Entering value: QjOyB@gmail.comat location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_username]]]>
+    </line>
+    <line>
+      <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_password]]]>
+    </line>
+    <line>
+      <![CDATA[Entering value: Demo@1234at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_password]]]>
+    </line>
+    <line>
+      <![CDATA[clicked on [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_login]button]]>
+    </line>
+    <line>
+      <![CDATA[Sign In functionality details...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on sign in button]]>
+    </line>
+    <line>
+      <![CDATA[Performing click on signing button...]]>
+    </line>
+    <line>
+      <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> xpath: //h1[contains(text(),'sign in')]]. Text value: sign in]]>
+    </line>
+    <line>
+      <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_username]]]>
+    </line>
+    <line>
+      <![CDATA[Entering value: dummy@gmail.comat location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_username]]]>
+    </line>
+    <line>
+      <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_password]]]>
+    </line>
+    <line>
+      <![CDATA[Entering value: Demo@1234at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_password]]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Proxy element for: DefaultElementLocator 'By.name: dwfrm_login_login'button]]>
+    </line>
+    <line>
+      <![CDATA[Sign In is successful.]]>
+    </line>
+    <line>
+      <![CDATA[SignIn is in progress...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on sign in button]]>
+    </line>
+    <line>
+      <![CDATA[Performing click on signing button...]]>
+    </line>
+    <line>
+      <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> xpath: //h1[contains(text(),'sign in')]]. Text value: sign in]]>
+    </line>
+    <line>
+      <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> name: dwfrm_login_username]]]>
+    </line>
+    <line>
+      <![CDATA[Entering value: dummy@gmail.comat location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> name: dwfrm_login_username]]]>
+    </line>
+    <line>
+      <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> name: dwfrm_login_password]]]>
+    </line>
+    <line>
+      <![CDATA[Entering value: Demo@1234at location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> name: dwfrm_login_password]]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Proxy element for: DefaultElementLocator 'By.name: dwfrm_login_login'button]]>
+    </line>
+    <line>
+      <![CDATA[SignIn successful.]]>
+    </line>
+    <line>
+      <![CDATA[Adding item to cart is in progress...]]>
+    </line>
+    <line>
+      <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> id: q]]]>
+    </line>
+    <line>
+      <![CDATA[Entering value: jacket at location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> id: q]]]>
+    </line>
+    <line>
+      <![CDATA[Pressed Enter Key to perform search for: jacket product]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> xpath: (//div[@class='product-image'])[1]]image]]>
+    </line>
+    <line>
+      <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> id: add-to-cart]. Text value: add to basket]]>
+    </line>
+    <line>
+      <![CDATA[[[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> xpath: (//li[@class='selectable variation-group-value ']//a)[1]] size selected from the available size options]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> id: add-to-cart]image]]>
+    </line>
+    <line>
+      <![CDATA[Shopping cart is opened successfully.]]>
+    </line>
+    <line>
+      <![CDATA[Verifying whether item is added to basket or not...]]>
+    </line>
+    <line>
+      <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> xpath: //div[@class='product-info']/span[@class='title']]. Text value: children's jacket (5x)]]>
+    </line>
+    <line>
+      <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> xpath: //div[@class='product-title-price']]. Text value: children's jacket]]>
+    </line>
+    <line>
+      <![CDATA[Item is added to shopping cart successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign In process is in progress...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on sign in button]]>
+    </line>
+    <line>
+      <![CDATA[Performing click on signing button...]]>
+    </line>
+    <line>
+      <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> xpath: //h1[contains(text(),'sign in')]]. Text value: sign in]]>
+    </line>
+    <line>
+      <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> name: dwfrm_login_username]]]>
+    </line>
+    <line>
+      <![CDATA[Entering value: dummy@gmail.comat location: [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> name: dwfrm_login_username]]]>
+    </line>
+    <line>
+      <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> name: dwfrm_login_password]]]>
+    </line>
+    <line>
+      <![CDATA[Entering value: Demo@1234at location: [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> name: dwfrm_login_password]]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Proxy element for: DefaultElementLocator 'By.name: dwfrm_login_login'button]]>
+    </line>
+    <line>
+      <![CDATA[SignIn successful.]]>
+    </line>
+    <line>
+      <![CDATA[Sign Out process is in progress...]]>
+    </line>
+    <line>
+      <![CDATA[clicked on [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> xpath: //span[text()='my HEMA']]button]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to SignOut Page]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='sign out']'button]]>
+    </line>
+    <line>
+      <![CDATA[Sign Out is successful.]]>
+    </line>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="171932" started-at="2020-01-04T19:06:18 CET" finished-at="2020-01-04T19:09:10 CET">
+    <groups>
+    </groups>
+    <test name="Functional Tests" duration-ms="171932" started-at="2020-01-04T19:06:18 CET" finished-at="2020-01-04T19:09:10 CET">
+      <class name="com.tomtom.tests.SignOutPageTest">
+        <test-method status="PASS" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:com.tomtom.tests.SignOutPageTest@7c9d8e2]" name="initializeTestBaseSetup" is-config="true" duration-ms="6113" started-at="2020-01-04T19:08:20 CET" finished-at="2020-01-04T19:08:26 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.hema.com/en-gb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tomtom.tests.SignOutPageTest@7c9d8e2]" name="setUp" is-config="true" duration-ms="0" started-at="2020-01-04T19:08:26 CET" finished-at="2020-01-04T19:08:26 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySignInFunction()[pri:0, instance:com.tomtom.tests.SignOutPageTest@7c9d8e2]" name="verifySignInFunction" duration-ms="24506" started-at="2020-01-04T19:08:26 CET" finished-at="2020-01-04T19:08:50 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Sign In process is in progress...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on sign in button]]>
+            </line>
+            <line>
+              <![CDATA[Performing click on signing button...]]>
+            </line>
+            <line>
+              <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> xpath: //h1[contains(text(),'sign in')]]. Text value: sign in]]>
+            </line>
+            <line>
+              <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> name: dwfrm_login_username]]]>
+            </line>
+            <line>
+              <![CDATA[Entering value: dummy@gmail.comat location: [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> name: dwfrm_login_username]]]>
+            </line>
+            <line>
+              <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> name: dwfrm_login_password]]]>
+            </line>
+            <line>
+              <![CDATA[Entering value: Demo@1234at location: [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> name: dwfrm_login_password]]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Proxy element for: DefaultElementLocator 'By.name: dwfrm_login_login'button]]>
+            </line>
+            <line>
+              <![CDATA[SignIn successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignInFunction -->
+        <test-method status="PASS" signature="verifySignOutFunction()[pri:0, instance:com.tomtom.tests.SignOutPageTest@7c9d8e2]" name="verifySignOutFunction" duration-ms="18966" started-at="2020-01-04T19:08:50 CET" depends-on-methods="com.tomtom.tests.SignOutPageTest.verifySignInFunction" finished-at="2020-01-04T19:09:09 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Sign Out process is in progress...]]>
+            </line>
+            <line>
+              <![CDATA[clicked on [[FirefoxDriver: firefox on MAC (9cb2f3d1-5ea0-c74b-b120-2a2e943f3a41)] -> xpath: //span[text()='my HEMA']]button]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to SignOut Page]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='sign out']'button]]>
+            </line>
+            <line>
+              <![CDATA[Sign Out is successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignOutFunction -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tomtom.tests.SignOutPageTest@7c9d8e2]" name="tearDown" is-config="true" duration-ms="777" started-at="2020-01-04T19:09:09 CET" finished-at="2020-01-04T19:09:10 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tomtom.tests.SignOutPageTest -->
+      <class name="com.tomtom.tests.SignInPageTest">
+        <test-method status="PASS" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:com.tomtom.tests.SignInPageTest@70325e14]" name="initializeTestBaseSetup" is-config="true" duration-ms="6553" started-at="2020-01-04T19:06:18 CET" finished-at="2020-01-04T19:06:25 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.hema.com/en-gb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tomtom.tests.SignInPageTest@70325e14]" name="setUp" is-config="true" duration-ms="0" started-at="2020-01-04T19:06:25 CET" finished-at="2020-01-04T19:06:25 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="signInFailure()[pri:0, instance:com.tomtom.tests.SignInPageTest@70325e14]" name="signInFailure" duration-ms="43279" started-at="2020-01-04T19:06:25 CET" finished-at="2020-01-04T19:07:08 CET">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='my HEMA']' (tried for 15 second(s) with 50 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='my HEMA']' (tried for 15 second(s) with 50 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at com.tomtom.pages.SignInPage.verifySignedInPage(SignInPage.java:117)
+at com.tomtom.pages.SignInPage.verifySignInFailure(SignInPage.java:85)
+at com.tomtom.tests.SignInPageTest.signInFailure(SignInPageTest.java:38)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1257)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: //span[text()='my HEMA']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Anujs-MacBook-Air.local', ip: 'fe80:0:0:0:100a:d862:3667:d8e8%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.2', java.version: '1.8.0_212'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 71.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20191202093317, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 11392, moz:profile: /var/folders/7q/8dd0g7w153q..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.2.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 51d717d5-e06e-804d-9256-eeb4a3c434dd
+*** Element info: {Using=xpath, value=//span[text()='my HEMA']}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy26.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 31 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Sign In failure test case...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on sign in button]]>
+            </line>
+            <line>
+              <![CDATA[Performing click on signing button...]]>
+            </line>
+            <line>
+              <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_username]]]>
+            </line>
+            <line>
+              <![CDATA[Entering value: QjOyB@gmail.comat location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_username]]]>
+            </line>
+            <line>
+              <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_password]]]>
+            </line>
+            <line>
+              <![CDATA[Entering value: Demo@1234at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_password]]]>
+            </line>
+            <line>
+              <![CDATA[clicked on [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_login]button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signInFailure -->
+        <test-method status="PASS" signature="verifySignInFunction()[pri:0, instance:com.tomtom.tests.SignInPageTest@70325e14]" name="verifySignInFunction" duration-ms="22823" started-at="2020-01-04T19:07:08 CET" finished-at="2020-01-04T19:07:31 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Sign In functionality details...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on sign in button]]>
+            </line>
+            <line>
+              <![CDATA[Performing click on signing button...]]>
+            </line>
+            <line>
+              <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> xpath: //h1[contains(text(),'sign in')]]. Text value: sign in]]>
+            </line>
+            <line>
+              <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_username]]]>
+            </line>
+            <line>
+              <![CDATA[Entering value: dummy@gmail.comat location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_username]]]>
+            </line>
+            <line>
+              <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_password]]]>
+            </line>
+            <line>
+              <![CDATA[Entering value: Demo@1234at location: [[FirefoxDriver: firefox on MAC (51d717d5-e06e-804d-9256-eeb4a3c434dd)] -> name: dwfrm_login_password]]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Proxy element for: DefaultElementLocator 'By.name: dwfrm_login_login'button]]>
+            </line>
+            <line>
+              <![CDATA[Sign In is successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignInFunction -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tomtom.tests.SignInPageTest@70325e14]" name="tearDown" is-config="true" duration-ms="864" started-at="2020-01-04T19:07:31 CET" finished-at="2020-01-04T19:07:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tomtom.tests.SignInPageTest -->
+      <class name="com.tomtom.tests.AddToCartPageTest">
+        <test-method status="PASS" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:com.tomtom.tests.AddToCartPageTest@37ceb1df]" name="initializeTestBaseSetup" is-config="true" duration-ms="5364" started-at="2020-01-04T19:07:32 CET" finished-at="2020-01-04T19:07:37 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.hema.com/en-gb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tomtom.tests.AddToCartPageTest@37ceb1df]" name="setUp" is-config="true" duration-ms="0" started-at="2020-01-04T19:07:37 CET" finished-at="2020-01-04T19:07:37 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySignIn()[pri:0, instance:com.tomtom.tests.AddToCartPageTest@37ceb1df]" name="verifySignIn" duration-ms="23289" started-at="2020-01-04T19:07:37 CET" finished-at="2020-01-04T19:08:01 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[SignIn is in progress...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on sign in button]]>
+            </line>
+            <line>
+              <![CDATA[Performing click on signing button...]]>
+            </line>
+            <line>
+              <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> xpath: //h1[contains(text(),'sign in')]]. Text value: sign in]]>
+            </line>
+            <line>
+              <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> name: dwfrm_login_username]]]>
+            </line>
+            <line>
+              <![CDATA[Entering value: dummy@gmail.comat location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> name: dwfrm_login_username]]]>
+            </line>
+            <line>
+              <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> name: dwfrm_login_password]]]>
+            </line>
+            <line>
+              <![CDATA[Entering value: Demo@1234at location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> name: dwfrm_login_password]]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Proxy element for: DefaultElementLocator 'By.name: dwfrm_login_login'button]]>
+            </line>
+            <line>
+              <![CDATA[SignIn successful.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignIn -->
+        <test-method status="PASS" signature="addItemsToCart()[pri:0, instance:com.tomtom.tests.AddToCartPageTest@37ceb1df]" name="addItemsToCart" duration-ms="15253" started-at="2020-01-04T19:08:01 CET" depends-on-methods="com.tomtom.tests.AddToCartPageTest.verifySignIn" finished-at="2020-01-04T19:08:16 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Adding item to cart is in progress...]]>
+            </line>
+            <line>
+              <![CDATA[Clearing field at location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> id: q]]]>
+            </line>
+            <line>
+              <![CDATA[Entering value: jacket at location: [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> id: q]]]>
+            </line>
+            <line>
+              <![CDATA[Pressed Enter Key to perform search for: jacket product]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> xpath: (//div[@class='product-image'])[1]]image]]>
+            </line>
+            <line>
+              <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> id: add-to-cart]. Text value: add to basket]]>
+            </line>
+            <line>
+              <![CDATA[[[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> xpath: (//li[@class='selectable variation-group-value ']//a)[1]] size selected from the available size options]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> id: add-to-cart]image]]>
+            </line>
+            <line>
+              <![CDATA[Shopping cart is opened successfully.]]>
+            </line>
+            <line>
+              <![CDATA[Verifying whether item is added to basket or not...]]>
+            </line>
+            <line>
+              <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> xpath: //div[@class='product-info']/span[@class='title']]. Text value: children's jacket (5x)]]>
+            </line>
+            <line>
+              <![CDATA[Fetching text for [[FirefoxDriver: firefox on MAC (cdb8ae1f-f3b2-974c-b1de-7c1acc07f460)] -> xpath: //div[@class='product-title-price']]. Text value: children's jacket]]>
+            </line>
+            <line>
+              <![CDATA[Item is added to shopping cart successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addItemsToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tomtom.tests.AddToCartPageTest@37ceb1df]" name="tearDown" is-config="true" duration-ms="3823" started-at="2020-01-04T19:08:16 CET" finished-at="2020-01-04T19:08:20 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tomtom.tests.AddToCartPageTest -->
+    </test> <!-- Functional Tests -->
+  </suite> <!-- Test Suite -->
+</testng-results>

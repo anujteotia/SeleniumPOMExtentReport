@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite" verbose="1">
+	<listeners>
+		<listener class-name="com.tomtom.base.TestListener" />
+	</listeners>
+	<parameter name="browserType" value=chrome />
+	<parameter name="appURL" value="https://www.hema.com/en-gb" />
+
+	<test name="Functional Tests">
+		<classes>
+			<!-- <class name="com.tomtom.tests.BasePageTest" /> -->
+			<!-- <class name="com.tomtom.tests.RegistrationPageTest" /> -->
+			<class name="com.tomtom.tests.SignInPageTest" />
+			<class name="com.tomtom.tests.AddToCartPageTest" />
+			<class name="com.tomtom.tests.SignOutPageTest" />
+		</classes>
+	</test>
+</suite>
