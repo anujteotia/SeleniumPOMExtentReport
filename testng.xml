@@ -4,7 +4,7 @@
 	<listeners>
 		<listener class-name="com.tomtom.base.TestListener" />
 	</listeners>
-	<parameter name="browserType" value=chrome />
+	<parameter name="browserType" value="chrome" />
 	<parameter name="appURL" value="https://www.hema.com/en-gb" />
 
 	<test name="Functional Tests">
